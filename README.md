@@ -23,6 +23,6 @@
 # Документация
 
 [Техническое задание](https://github.com)<br />
-[Созданные диаграммы]([https://github.com](https://github.com/TP-4-4/PurrfectBites/tree/main/Документация/Cозданные%20диаграммы)https://github.com/TP-4-4/PurrfectBites/tree/main/Документация/Cозданные%20диаграммы)<br />
+[Созданные диаграммы](https://github.com/TP-4-4/PurrfectBites/tree/main/Документация/Cозданные%20диаграммы)<br />
 [Сопроводительное письмо](https://github.com)<br />
 
