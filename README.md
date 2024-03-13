@@ -25,4 +25,5 @@
 [Техническое задание](https://github.com)<br />
 [Созданные диаграммы](https://github.com/TP-4-4/PurrfectBites/tree/main/Документация/Cозданные%20диаграммы)<br />
 [Сопроводительное письмо](https://github.com)<br />
+[Презентация Технического Задания](https://github.com/TP-4-4/PurrfectBites/tree/main/Документация/Презентация%20Технического%20Задания)<br />
 
