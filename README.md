@@ -17,7 +17,7 @@
 
 # Сервисы для работы
 
-[Видеопрезентация технического задания](https://drive.google.com)<br />
+[Видеопрезентация технического задания](https://disk.yandex.ru/i/LEfySVPGtK_ZXw)<br />
 [Figma. Дизайн-макеты](https://www.figma.com/file/Ep3cTd7bHurfgczK2ZOpw6/Purrfect-Bites?type=design&mode=design&t=g7tr38IydYTL96rX-1)<br />
 
 # Документация
