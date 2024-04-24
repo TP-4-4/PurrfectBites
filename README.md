@@ -26,4 +26,7 @@
 [Созданные диаграммы](https://github.com/TP-4-4/PurrfectBites/tree/main/Документация/Cозданные%20диаграммы)<br />
 [Сопроводительное письмо](https://github.com/TP-4-4/PurrfectBites/tree/main/Документация/Сопроводительное%20письмо)<br />
 [Презентация Технического Задания](https://github.com/TP-4-4/PurrfectBites/tree/main/Документация/Презентация%20Технического%20Задания)<br />
+[Курсовой Проект](https://github.com/TP-4-4/PurrfectBites/tree/main/Документация/Курсовой%20Проект)<br />
+
+
 
