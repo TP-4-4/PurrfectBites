@@ -18,6 +18,8 @@
 # Сервисы для работы
 
 [Видеопрезентация технического задания](https://disk.yandex.ru/i/LEfySVPGtK_ZXw)<br />
+[Запись работы мобильного приложения для курьера](https://disk.yandex.ru/i/LN_cvfjmVveU8Q)<br />
+[Запись работы сайта для клиента](https://disk.yandex.ru/i/gS1ZWQpzC3fFfA)<br />
 [Figma. Дизайн-макеты](https://www.figma.com/file/Ep3cTd7bHurfgczK2ZOpw6/Purrfect-Bites?type=design&mode=design&t=g7tr38IydYTL96rX-1)<br />
 
 # Документация
