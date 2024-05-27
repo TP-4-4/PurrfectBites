@@ -11,9 +11,9 @@
 
 # Команда по созданию проекта
 
-1. [Дунаева Ксения](https://github.com/KseniaMuxamedova) - дизайнер, frontend разработчик, QA-инженерк <br />
-2. [Жданова Алина](https://github.com/kuklachev) - бизнес-аналитик, backend разработчик, QA-инженерк <br />
-3. [Лобова Екатерина](https://github.com/k8lobova) - руководитель проекта, backend разработчик, mobile разработчик <br />
+1. [Дунаева Ксения](https://github.com/KseniaMuxamedova) - дизайнер, frontend разработчик <br />
+2. [Жданова Алина](https://github.com/kuklachev) - бизнес-аналитик, backend разработчик <br />
+3. [Лобова Екатерина](https://github.com/k8lobova) - руководитель проекта, mobile разработчик <br />
 
 # Сервисы для работы
 
