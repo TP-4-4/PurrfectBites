@@ -38,7 +38,7 @@
 # Сервисы для работы
 [YouTrack](https://purrfectbites.youtrack.cloud/issues)<br /> 
 [Figma. Дизайн-макеты](https://www.figma.com/file/Ep3cTd7bHurfgczK2ZOpw6/Purrfect-Bites?type=design&mode=design&t=g7tr38IydYTL96rX-1)<br />
-[Аналитика проекта](...)<br />
+[Аналитика проекта]()<br />
 
 # Документация
 [Техническое задание](https://github.com/TP-4-4/PurrfectBites/tree/main/Документация/Техническое%20задание)<br />
@@ -47,7 +47,7 @@
 [Сопроводительное письмо](https://github.com/TP-4-4/PurrfectBites/tree/main/Документация/Сопроводительное%20письмо)<br />
 [Презентация Технического Задания](https://github.com/TP-4-4/PurrfectBites/tree/main/Документация/Презентация%20Технического%20Задания)<br />
 [Курсовой Проект](https://github.com/TP-4-4/PurrfectBites/tree/main/Документация/Курсовой%20Проект)<br />
-[Аналитическая система в pdf-файле](...)<br />
+[Аналитическая система в pdf-файле]()<br />
 
 # Видеообзор сервиса 
 
