@@ -11,24 +11,26 @@
 
 # Команда по созданию проекта
 
-1. [Дунаева Ксения](https://github.com/KseniaMuxamedova) - дизайнер, frontend разработчик <br />
+1. [Дунаева Ксения](https://github.com/KseniaMuxamedova) - дизайнер, frontend разработчик, бизнес-аналитик, тестировщик <br />
 2. [Жданова Алина](https://github.com/kuklachev) - бизнес-аналитик, backend разработчик <br />
 3. [Лобова Екатерина](https://github.com/k8lobova) - руководитель проекта, mobile разработчик <br />
 
 # Сервисы для работы
-
-[Видеопрезентация технического задания](https://disk.yandex.ru/i/LEfySVPGtK_ZXw)<br />
-[Запись работы мобильного приложения для курьера](https://disk.yandex.ru/i/LN_cvfjmVveU8Q)<br />
-[Запись работы сайта для клиента](https://disk.yandex.ru/i/gS1ZWQpzC3fFfA)<br />
+[YouTrack](https://purrfectbites.youtrack.cloud/issues)<br /> 
 [Figma. Дизайн-макеты](https://www.figma.com/file/Ep3cTd7bHurfgczK2ZOpw6/Purrfect-Bites?type=design&mode=design&t=g7tr38IydYTL96rX-1)<br />
 
 # Документация
-
 [Техническое задание](https://github.com/TP-4-4/PurrfectBites/tree/main/Документация/Техническое%20задание)<br />
+[Видеопрезентация технического задания](https://disk.yandex.ru/i/LEfySVPGtK_ZXw)<br />
 [Созданные диаграммы](https://github.com/TP-4-4/PurrfectBites/tree/main/Документация/Cозданные%20диаграммы)<br />
 [Сопроводительное письмо](https://github.com/TP-4-4/PurrfectBites/tree/main/Документация/Сопроводительное%20письмо)<br />
 [Презентация Технического Задания](https://github.com/TP-4-4/PurrfectBites/tree/main/Документация/Презентация%20Технического%20Задания)<br />
 [Курсовой Проект](https://github.com/TP-4-4/PurrfectBites/tree/main/Документация/Курсовой%20Проект)<br />
 
+# Видеообзор сервиса 
 
+[Презентация проекта] (...)<br />
+[Видеопрезентация] (...)<br />
+[Видеообзор функционала](https://disk.yandex.ru/d/NR4k8Li6IK9csg)<br />
+[Видеообзор кода мобильного приложения; клиентской, серверной части приложения и развертывания](https://disk.yandex.ru/d/x_-MppK5pb0N_A)<br />
 
