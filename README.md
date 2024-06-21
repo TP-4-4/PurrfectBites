@@ -27,9 +27,9 @@
 
 # Команда по созданию проекта
 
-1. [Дунаева Ксения](https://github.com/KseniaMuxamedova) - дизайнер, frontend разработчик, бизнес-аналитик, тестировщик <br />
+1. [Дунаева Ксения](https://github.com/KseniaMuxamedova) - дизайнер, frontend разработчик, тестировщик <br />
 2. [Жданова Алина](https://github.com/kuklachev) - бизнес-аналитик, backend разработчик <br />
-3. [Лобова Екатерина](https://github.com/k8lobova) - руководитель проекта, mobile разработчик, техническийй писатель <br />
+3. [Лобова Екатерина](https://github.com/k8lobova) - руководитель проекта, mobile разработчик, технический писатель <br />
 
 # Сервисы для работы
 [YouTrack](https://purrfectbites.youtrack.cloud/issues)<br /> 
