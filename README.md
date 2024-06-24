@@ -23,7 +23,7 @@ Login: admin <br />
 Password: 2217355 <br />
 
 ## Инструкция по запуску приложение со стороны пользователя (курьера)
-Для использования приложения необходимо его [скачать](https://disk.yandex.ru/d/MpMVrAL3LXgJeA) и установить. (android)
+Для использования приложения необходимо его [скачать](https://disk.yandex.ru/d/MpMVrAL3LXgJeA) и установить. (android) <br />
 Учетные данные курьера 1 <br />
 Phone: 1 <br />
 Password: 1 <br />
